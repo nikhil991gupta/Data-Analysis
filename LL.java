@@ -99,7 +99,7 @@ class LinkedList
 		
 		llist.insertAfter(llist.head.next, 8);
 
-		System.out.println("\nCreated Linked list is: ");
+		System.out.println("\nCreated Linked list is : ");
 		llist.printList();
 	}
 }
